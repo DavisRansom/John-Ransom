@@ -1,0 +1,17 @@
+body {display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center; align-content: center;}
+
+header {border:2px; padding: 2px; background-color: navy; justify-content: center; align-content: center;}
+
+h1 {color: white; justify-content: center; align-content: center;}
+
+nav {border: 2px; padding: 2px; background-color: orange; justify-content: center; align-content: center;}
+
+button {border: 2px; padding: 2px; color: purple; justify-content: center; align-content: center;}
+
+section {border: 2px; padding: 2px; background-color: red; justify-content: center; align-content: center;}
+
+article {font-size: 16px; justify-content: center; align-content: center;}
+
+aside {border: 2px; padding: 2px; background-color: #638475; justify-content: center; align-content: right;}
+
+footer {border: 2px; padding: 2px; background-color: yellow; justify-content: center;align-content: center;}
